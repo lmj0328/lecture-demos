@@ -1,0 +1,21 @@
+/*This is an example of css, the appearence of a web page. It could be easily changed.*/
+h1 {
+	font-family: ‘helvetica’;
+	color: white;
+    background-color: #333; /*dark gray*/
+    padding: 2em; /*front distance*/
+}
+
+p{
+    font-size: 20px;
+    /*font-weight: boldness*/
+}
+
+li {
+    color: blue;
+}
+
+em {
+    font-style: normal;
+    text-decoration: underline;
+}
